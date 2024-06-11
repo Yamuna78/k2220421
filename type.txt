@@ -1,0 +1,5 @@
+Google Drive is considered Software as a Service (SaaS) because it is a cloud-based service that allows users to store, share, and access files and documents 
+over the internet. Users can access their files and documents from any device with an internet connection and do not need to install any software on their device. 
+The service is managed and maintained by Google, and users typically pay a subscription fee to access the service. This subscription-based model and the fact that 
+it is delivered over the internet are key characteristics of SaaS.
+
